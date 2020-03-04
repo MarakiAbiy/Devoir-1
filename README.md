@@ -35,8 +35,6 @@ A3_b:
 
 ## QUESTION B1
 
-output of B1_a:
-
 | name | experience |
 |andrew | 2 |
 | august | 0 |
