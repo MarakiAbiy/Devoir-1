@@ -36,6 +36,7 @@ A3_b:
 ## QUESTION B1
 
 | name | experience |
+| --- | --- |
 |andrew | 2 |
 | august | 0 |
 | hayden | 1 |
@@ -43,10 +44,12 @@ A3_b:
 output of B1_b:
 
 | name | release_date|
+| --- | --- |
 | MS Word | 2011-01-20 |
 | Sketch | 2016-06-15 |
 
 output of B1_c:
 
 | ID | name | num |
+| --- | --- |
 | 49 | hayden | 1 |
