@@ -17,3 +17,8 @@ A1_c:
 ![A1_c](documents/A1_c.png)
 
 ##QUESTION A2
+
+Modèles ER créés avec Lucidchart:
+
+A2:
+![A2](documents/A2.png)
