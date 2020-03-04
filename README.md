@@ -51,5 +51,5 @@ output of B1_b:
 output of B1_c:
 
 | ID | name | num |
-| --- | --- |
+| --- | --- | --- |
 | 49 | hayden | 1 |
