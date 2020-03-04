@@ -30,3 +30,25 @@ A3_a:
 
 A3_b:
 ![A3_b](documents/A3_b.png)
+
+## PARTIE
+
+## QUESTION B1
+
+output of B1_a:
+
+| name | experience |
+|andrew | 2 |
+| august | 0 |
+| hayden | 1 |
+
+output of B1_b:
+
+| name | release_date|
+| MS Word | 2011-01-20 |
+| Sketch | 2016-06-15 |
+
+output of B1_c:
+
+| ID | name | num |
+| 49 | hayden | 1 |
