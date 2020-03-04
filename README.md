@@ -102,7 +102,7 @@ ALTER TABLE licenses
 ADD COLUMN software_version string;
 ```
 
-Requête sql de B3_a:
+Requête sql de B3_b:
 
 ```sql
 ALTER TABLE softwares
@@ -110,3 +110,4 @@ DROP PRIMARY KEY
 
 ALTER TABLE softwares
 ADD COLUMN PRIMARY KEY(softwares.name, softwares.version)
+```
