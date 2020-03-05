@@ -73,7 +73,7 @@ Requête sql de B2_b:
 SELECT users_id, software_name, Count(*)AS num
 FROM  licenses
 GROUP BY users_id
-ORDER BY (num AND users.name) ASC
+ORDER BY num ASC, users.name ASC;
 
 ```
 Requête sql de B2_c:
